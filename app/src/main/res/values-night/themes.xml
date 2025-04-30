@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SocialMedia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Background and Surface -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColor">@color/textColor</item>
+
+        <!-- ActionMode Background -->
+        <item name="actionModeBackground">@color/colorPrimary</item>
+
+        <!-- Divider Color -->
+        <item name="dividerColor">@color/dividerColor</item>
+
+        <!-- Error Color -->
+        <item name="colorError">@color/errorColor</item>
+    </style>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#90CAF9</color>
+    <color name="colorPrimaryDark">#42A5F5</color>
+    <color name="colorAccent">#FFD54F</color>
+
+    <!-- Background and Surface -->
+    <color name="backgroundColor">#121212</color>
+    <color name="surfaceColor">#1E1E1E</color>
+
+    <!-- Text Colors -->
+    <color name="textColor">#FFFFFF</color>
+    <color name="textColor2">#A2A2A2</color>
+
+    <!-- Miscellaneous -->
+    <color name="errorColor">#EF5350</color>
+    <color name="dividerColor">#424242</color>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightgray">#52000000</color>
+    <color name="dark_purple">#23002b</color>
+    <color name="instacenterclord">#d34267</color>
+    <color name="darkgray">#AE000000</color>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#1565C0</color> <!-- Darker blue for status bar -->
+    <color name="colorAccent">#FFC107</color> <!-- Bright amber for highlights -->
+
+    <!-- Background and Surface -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light gray for main background -->
+    <color name="surfaceColor">#FFFFFF</color> <!-- Pure white for cards and surfaces -->
+
+    <!-- Text Colors -->
+    <color name="textColor">#212121</color>
+    <color name="textColor2">#52000000</color>
+
+    <!-- Miscellaneous -->
+    <color name="errorColor">#D32F2F</color> <!-- Red for errors -->
+    <color name="dividerColor">#E0E0E0</color> <!-- Light gray for dividers -->
+
+    <color name="red">#e91e63</color>
+    <color name="gray">#A2A2A2</color>
+    <color name="linkColor">#2196F3</color>
+    <color name="chat_background">#ededed</color>
+</resources>

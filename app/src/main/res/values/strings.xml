@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Social Media</string>
+    <string name="enter_mobNo">Enter Mobile No.</string>
+    <string name="enter_fullname">Enter Full Name</string>
+    <string name="enter_username">Enter User Name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_mobileno">Enter mobile Number</string>
+    <string name="enter_gender">Enter gender Male/Female</string>
+    <string name="enter_bio">Enter Bio</string>
+    <string name="invalid_mobNo">Invalid Mobile No.</string>
+    <string name="otp_verification">otp Verification</string>
+    <string name="enter_otp_verification">enter otp verification</string>
+    <string name="resend_otp">resend otp</string>
+    <string name="login">Login With Otp</string>
+    <string name="donthave_account">Donot have Account</string>
+    <string name="signup">Signup</string>
+    <string name="loading">Please Wait...</string>
+    <string name="tab_1">followers</string>
+    <string name="tab_2">following</string>
+    <string name="we_will_send_you_one_time_password">We Will Send You One Time Password</string>
+    <string-array name="privacy_options">
+        <item>Public</item>
+        <item>Private</item>
+    </string-array>
+
+
+    <string name="default_web_client_id">1075018552965-s8v69aqbgut43f6mt961us6hm9gvl3bh.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

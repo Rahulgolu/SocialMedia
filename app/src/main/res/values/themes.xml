@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SocialMedia" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Background and Surface -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+
+        <!-- Text Colors -->
+        <item name="android:textColor">@color/textColor</item>
+
+        <!-- ActionMode Background -->
+        <item name="actionModeBackground">@color/colorPrimary</item>
+
+        <!-- Divider Color -->
+        <item name="dividerColor">@color/dividerColor</item>
+
+        <!-- Error Color -->
+        <item name="colorError">@color/errorColor</item>
+    </style>
+
+    <style name="Theme.SocialMedia" parent="Base.Theme.SocialMedia" />
+</resources>
